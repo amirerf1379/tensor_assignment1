@@ -12,7 +12,7 @@ In this assignment, we have created methods that return:
 - Multiplication of two tensors
 - Transpose a tensor
 - Inverse a tensor
-- 
+  
 ## Installation
 
 You can install TensorCalculator using `pip`:
