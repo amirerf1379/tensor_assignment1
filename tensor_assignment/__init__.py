@@ -1,4 +1,4 @@
-from module_structure.tensor_hw import *
+from tensor_assignment.tensor_hw import *
 
 
 
